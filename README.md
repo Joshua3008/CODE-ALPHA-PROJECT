@@ -9,4 +9,4 @@ During my CodeAlpha Artificial Intelligence internship, I completed three hands-
 
 Tech stack: Python, TensorFlow/Keras, scikit-learn, Flask, music21, NumPy, HTML/CSS/JavaScript.
 
-Each project has its own GitHub repository, following the CodeAlpha_ProjectName naming convention, with full source code and documentation.
+Each project has its own GitHub repository, following the CodeAlpha_ProjectName naming convention, with full source code and documentation included
